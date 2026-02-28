@@ -1,0 +1,13 @@
+﻿aiogram==3.*
+python-dotenv==1.*
+httpx==0.*
+fastapi==0.*
+uvicorn[standard]==0.*
+pydantic==2.*
+
+gspread==6.*
+google-auth==2.*
+google-auth-oauthlib==1.*
+google-auth-httplib2==0.*
+apscheduler==3.*
+tzdata==2025.*
