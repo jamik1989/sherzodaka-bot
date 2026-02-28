@@ -6,3 +6,5 @@ __pycache__/
 service_account.json
 app/credentials/
 .DS_Store
+app/storage/
+*.db
